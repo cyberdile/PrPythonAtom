@@ -1,0 +1,237 @@
+title,rating
+Hearthstone: Heroes of Warcraft,9.67
+Ori and the Blind forest,9.67
+Одни из нас,9.53
+Dragon Age: Инквизиция,9.50
+Ведьмак 3: Дикая охота,9.41
+BioShock Infinite,9.41
+Дожить до рассвета,9.40
+Фаренгейт,9.40
+Warcraft III: Reign of Chaos,9.35
+Uncharted 4: Путь вора,9.33
+S.T.A.L.K.E.R.: Зов Припяти,9.33
+Burnout Paradise,9.33
+Хроники Риддика: Побег из Бухты Мясника,9.33
+Бэтмен: Лечебница Аркхэм,9.31
+The Elder Scrolls V: Skyrim,9.31
+Max Payne,9.29
+The Evil Within 2,9.29
+Диабло,9.27
+StarCraft,9.25
+Bioshock Infinite: Burial at Sea,9.25
+Крутой Сэм: Первая кровь,9.25
+Обитель зла 6,9.25
+Half-Life 2,9.23
+Диабло 3,9.22
+Metro: Last Light,9.20
+Принц Персии: Пески Времени,9.20
+Dragon Age: Начало,9.19
+Grand Theft Auto V,9.17
+Бэтмен: Аркхэм-Сити,9.17
+Ведьмак 2: Убийцы королей,9.17
+Портал 2,9.14
+Need for Speed: Most Wanted,9.13
+Battlefield 1,9.13
+Left 4 Dead 2,9.10
+The Evil Within,9.09
+Grand Theft Auto IV,9.07
+Alien: Isolation,9.06
+Тетрис,9.05
+Mass Effect 2,9.04
+Мертвый космос,9.04
+Tomb Raider,9.00
+Warcraft III: The Frozen Throne,9.00
+Мафия 2,9.00
+Растения против Зомби,9.00
+Лос-Анджелесский нуар,9.00
+Gears of War,9.00
+Call of Duty 2,9.00
+The Need for Speed,9.00
+Wolfenstein II: The New Colossus,9.00
+Обитель зла 4,9.00
+Borderlands 2,9.00
+Splinter Cell: Chaos Theory,9.00
+Пережить,9.00
+The Walking Dead: The Game - Season 2,9.00
+Портал,9.00
+Deus Ex,9.00
+Mass Effect 3,8.94
+Mortal Kombat,8.92
+Биошок 2,8.92
+S.T.A.L.K.E.R.: Тень Чернобыля,8.91
+Fallout 2: A Post-Nuclear Role-Playing Game,8.89
+Мафия: Город потерянного рая,8.89
+Half-Life,8.88
+Dishonored,8.88
+Assassin`s Creed IV: Черный Флаг,8.86
+Assassin`s Creed II,8.84
+Call of Duty: Modern Warfare 2,8.83
+Batman: Рыцарь Аркхема,8.83
+Детройт: Стать человеком,8.83
+Убитый: Душа Подозреваемого,8.83
+Call of Duty,8.80
+Alan Wake,8.80
+Индиана Джонс и гробница императора,8.80
+Grand Theft Auto: San Andreas,8.76
+Doom,8.75
+Fallout 3,8.75
+Средиземье: Тени Мордора,8.75
+Mortal Kombat X,8.73
+Quake,8.73
+F.E.A.R.: First Encounter Assault Recon,8.71
+Far Cry 3,8.70
+Star Wars: Knights of the Old Republic,8.70
+The Elder Scrolls IV: Oblivion,8.69
+Call of Duty 4: Modern Warfare,8.68
+Need for Speed: Underground,8.67
+Call of Duty: Black Ops II,8.67
+StarCraft: Brood War,8.67
+Принц Персии: Два Трона,8.67
+Хроники Риддика: Нападение на "Темную Афину",8.67
+Wolfenstein: The New Order,8.64
+Grand Theft Auto: Vice City,8.63
+Max Payne 2: The Fall of Max Payne,8.63
+Умирающий свет,8.63
+Чужие против Хищника,8.60
+Alone in the Dark,8.60
+Splinter Cell,8.60
+Кейн и Линч: Смертники,8.60
+Хитмэн: Кровавые деньги,8.58
+Assassin`s Creed: Синдикат,8.57
+Fallout: New Vegas,8.56
+Ведьмак,8.53
+Max Payne 3,8.50
+Left 4 Dead,8.50
+Enter the Matrix,8.50
+Alien Shooter,8.50
+Call of Duty: Advanced Warfare,8.50
+Dark Souls III,8.50
+Герои Меча и Магии V,8.50
+Lego Marvel`s Avengers,8.50
+Rise of the Tomb Raider,8.46
+StarCraft II: Wings of Liberty,8.44
+Battlefield 3,8.43
+The Walking Dead: The Game - Season 1,8.43
+Assassin`s Creed III,8.41
+Мертвый космос 2,8.40
+Splinter Cell: Blacklist,8.40
+Call of Juarez: Bound in Blood,8.40
+Принц Персии: Забытые пески,8.40
+Цивилизация 5,8.40
+Assassin`s Creed,8.39
+Crysis Warhead,8.38
+Звездные войны: Рыцарь джедай: Академия джедаев,8.36
+Crysis,8.33
+Half-Life 2: Episode One,8.33
+Возвращение в замок Вольфенштейн,8.33
+Обитель зла,8.33
+Обитель зла 2,8.33
+The Darkness 2,8.33
+За гранью: Две души,8.33
+Call of Duty: Black Ops,8.29
+Assassin`s Creed: Откровения,8.25
+Far Cry 4,8.25
+Dark Souls II,8.25
+Horizon Zero Dawn,8.25
+Need for Speed Rivals,8.25
+The Wolf Among Us,8.25
+Обитель зла 7,8.25
+Half-Life 2: Episode Two,8.23
+Need for Speed: Underground 2,8.22
+Angry Birds,8.20
+Painkiller: Крещеный кровью,8.20
+Star Wars: Battlefront,8.20
+Биошок,8.18
+Мертвый Космос 3,8.18
+Принц Персии: Схватка с судьбой,8.17
+Crysis 2,8.14
+The Elder Scrolls III: Morrowind,8.13
+Постал 2,8.13
+Assassin`s Creed: Братство крови,8.11
+Bulletstorm,8.11
+DOOM 3,8.11
+Hitman: Absolution,8.11
+Need for Speed: Hot Pursuit,8.11
+Fallout 4,8.00
+Call of Duty: Ghosts,8.00
+Battlefield 4,8.00
+Injustice 2,8.00
+World of Warcraft,8.00
+Mortal Kombat,8.00
+Need for Speed: The Run,8.00
+Borderlands,8.00
+Little Nightmares,8.00
+Dark Sector,8.00
+Deus Ex: Революция Человечества,8.00
+F.E.A.R. Perseus Mandate,8.00
+The Walking Dead: The Game - Season 3,8.00
+Альфа-протокол,8.00
+Расхитительница гробниц: Юбилейное издание,8.00
+Угонщик,8.00
+Человек-Паук: Паутина теней,8.00
+Far Cry,7.88
+Несправедливость: Боги среди нас,7.88
+Assassin`s Creed: Изгой,7.83
+Wolfenstein,7.83
+Mass Effect,7.82
+Южный парк: Палка Истины,7.80
+Bloodborne: Порождение крови,7.75
+Medal of Honor,7.75
+StarCraft II: Heart of the Swarm,7.75
+Чужие против Хищника 2,7.75
+Life is Strange,7.71
+Безумный макс,7.67
+Прототип,7.67
+Alice: Madness Returns,7.67
+StarCraft II: Legacy of the Void,7.67
+Герои меча и магии IV,7.67
+Квант милосердия,7.67
+Crysis 3,7.64
+Люди Икс: Начало. Росомаха,7.64
+Prey,7.60
+Томб Райдер: Другой мир,7.60
+Метро 2033,7.57
+Turok,7.57
+Call of Duty: Modern Warfare 3,7.50
+Star Wars: The Force Unleashed II,7.50
+Call of Duty: World at War,7.50
+Boulder Dash,7.50
+Dota 2,7.46
+Принц Персии,7.43
+Обитель зла 5,7.40
+Deadpool,7.40
+S.T.A.L.K.E.R.: Чистое небо,7.40
+Крутой Сэм 2,7.33
+Крутой Сэм 3,7.33
+Grand Theft Auto III,7.29
+Quantum Break,7.29
+Avatar: The Game,7.25
+Metal Gear Solid V: The Phantom Pain,7.25
+Star Wars: The Force Unleashed,7.17
+Watch Dogs,7.17
+Star Wars: Republic Commando,7.00
+Far Cry Primal,7.00
+Heroes of the Storm,7.00
+Лара Крофт и Храм Осириса,7.00
+Обитель зла: Откровения,7.00
+F.E.A.R. 2: Project Origin,6.83
+Lost Planet: Extreme Condition,6.80
+Мир танков,6.80
+Tomb Raider: Legend,6.75
+Assassin`s Creed: Единство,6.67
+Far Cry 2,6.67
+Limbo,6.50
+F.E.A.R. 3,6.33
+Call of Juarez: Сокровища Ацтеков,6.33
+Overwatch,6.33
+Охотники за привидениями,3.75
+Teenage Mutant Ninja Turtles: Mutants in Manhattan,6.00
+Tom Clancy`s The Division,6.00
+Batman: Arkham Origins,5.83
+Обитель зла: Операция "Раккун Сити",5.75
+Hitman,5.67
+Star Wars: Battlefront II,5.25
+Call of Duty: WWII,5.00
+Властелин колец. Завоевание,5.00
+Мафия 3,4.60
+Aliens: Colonial Marines,4.50
